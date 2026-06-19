@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -14,3 +15,7 @@ The React Compiler is not enabled on this template because of its impact on dev 
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+=======
+# Rushith-portfolio
+A modern and responsive personal portfolio website built with React, Vite, JavaScript, HTML, CSS, and Tailwind CSS. Showcases my skills, projects, education, certifications, and professional experience with an intuitive user interface and optimized performance.
+>>>>>>> 740401ed8bfb58e34669e6c560fdec452e51ef08
